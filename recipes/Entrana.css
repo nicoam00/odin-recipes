@@ -1,0 +1,21 @@
+
+.steak,
+.sauce {
+    font-family: cursive
+}
+
+#header {
+    background-color: red;
+    align-self: center;
+}
+#description {
+    font-size: 25px;
+}
+.steak {
+    color: blue;
+    background-color: crimson;
+}
+.sauce {
+    color: red;
+    background-color: blue;
+}
